@@ -1,0 +1,166 @@
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Product_Customer_Management.dll.config
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Product_Customer_Management.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Product_Customer_Management.pdb
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csc.exe
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csc.exe.config
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csc.rsp
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csi.exe
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csi.exe.config
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csi.rsp
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.AppContext.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Console.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.Compression.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Net.Http.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.ValueTuple.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\vbc.exe
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\vbc.exe.config
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\vbc.rsp
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Antlr3.Runtime.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Newtonsoft.Json.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Helpers.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Mvc.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Optimization.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Razor.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\WebGrease.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Helpers.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Mvc.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Optimization.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Razor.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Newtonsoft.Json.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Antlr3.Runtime.pdb
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.csproj.AssemblyReference.cache
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.csproj.CoreCompileInputs.cache
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_.064AEEE8.Up2Date
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.dll
+C:\Users\X1 CARBON\source\repos\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.pdb
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Product_Customer_Management.dll.config
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Product_Customer_Management.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Product_Customer_Management.pdb
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csc.exe
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csc.exe.config
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csc.rsp
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csi.exe
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csi.exe.config
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\csi.rsp
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.Managed.Core.targets
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.AppContext.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Collections.Immutable.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Console.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Globalization.Calendars.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.Compression.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.FileSystem.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Net.Http.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Net.Sockets.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Reflection.Metadata.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.ValueTuple.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.XmlDocument.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.XPath.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\vbc.exe
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\vbc.exe.config
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\vbc.rsp
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\VBCSCompiler.exe
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\roslyn\VBCSCompiler.exe.config
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Antlr3.Runtime.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.SqlServer.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Microsoft.Web.Infrastructure.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Newtonsoft.Json.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Helpers.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Mvc.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Optimization.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Razor.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Deployment.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Razor.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\WebGrease.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\EntityFramework.SqlServer.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Helpers.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Mvc.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Optimization.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.Razor.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Deployment.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\System.Web.WebPages.Razor.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Newtonsoft.Json.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Antlr3.Runtime.pdb
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.csproj.AssemblyReference.cache
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.csproj.CoreCompileInputs.cache
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_.064AEEE8.Up2Date
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.dll
+E:\10th Sem\.NET\Lab Task 1\Product_Customer_Management\Product_Customer_Management\obj\Debug\Product_Customer_Management.pdb

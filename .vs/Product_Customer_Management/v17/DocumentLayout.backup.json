@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:Product_Customer_Management\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\DTOs\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:Product_Customer_Management\\DTOs\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|e:\\10th sem\\.net\\lab task 1\\product_customer_management\\product_customer_management\\ef\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:product_customer_management\\ef\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:Product_Customer_Management\\EF\\Model1.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:Product_Customer_Management\\EF\\Model1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:Product_Customer_Management\\EF\\Model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\prod_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F59885-F475-4642-A24F-0DAAADAC1B22}|Product_Customer_Management\\Product_Customer_Management.csproj|solutionrelative:Product_Customer_Management\\EF\\prod_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Views\\Product\\List.cshtml",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Product_Customer_Management\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:01:31.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\DTOs\\Product.cs",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\DTOs\\Product.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\DTOs\\Product.cs",
+              "RelativeToolTip": "Product_Customer_Management\\DTOs\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:17:50.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product_Customer_Management\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:07:13.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Product_Customer_Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:52:30.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Product_Customer_Management\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T07:00:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Views\\Product\\Details.cshtml",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Product_Customer_Management\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T11:23:22.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Product_Customer_Management\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T14:24:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Product_Customer_Management\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:00:12.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\EF\\Model1.edmx",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Product_Customer_Management\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-14T14:21:51.557Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.tt",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\EF\\Model1.tt",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.tt",
+              "RelativeToolTip": "Product_Customer_Management\\EF\\Model1.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-14T14:21:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\EF\\Model1.edmx.diagram",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.edmx.diagram",
+              "RelativeToolTip": "Product_Customer_Management\\EF\\Model1.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-13T06:58:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Product_Customer_Management\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:24:48.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "prod_table.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\prod_table.cs",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\EF\\prod_table.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\prod_table.cs",
+              "RelativeToolTip": "Product_Customer_Management\\EF\\prod_table.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:18:54.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\EF\\Model1.Designer.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.Designer.cs",
+              "RelativeToolTip": "Product_Customer_Management\\EF\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:58:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Product_Customer_Management\\EF\\Model1.Context.tt",
+              "ToolTip": "E:\\10th Sem\\.NET\\Lab Task 1\\Product_Customer_Management\\Product_Customer_Management\\EF\\Model1.Context.tt",
+              "RelativeToolTip": "Product_Customer_Management\\EF\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T06:33:45.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
